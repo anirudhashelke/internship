@@ -1,8 +1,8 @@
 import React from 'react';
 import './Footer.css';
 import { FaInstagram, FaLinkedinIn, FaTwitter, FaYoutube } from 'react-icons/fa';
-import { Link } from 'react-scroll';
 import { motion } from 'framer-motion';
+import { Link } from 'react-router-dom';
 
 const icons = [
     <FaTwitter />,
